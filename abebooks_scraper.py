@@ -1,6 +1,5 @@
 import pandas as pd
 import selenium
-from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
